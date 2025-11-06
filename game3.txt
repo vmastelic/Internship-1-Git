@@ -1,5 +1,5 @@
-Ivan ima x pobjeda i y poraza!
-Vatro ima z pobjeda i n poraza!
+Ivan ima 0 pobjeda i 1 poraza!
+Vatro ima 1 pobjeda i 0 poraza!
 
 
 . . O
