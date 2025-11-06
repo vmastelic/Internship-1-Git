@@ -1,6 +1,11 @@
 Ivan ima x pobjeda i y poraza!
 Vatro ima z pobjeda i n poraza!
 
+<<<<<<< HEAD
 . . O
 . . .
+=======
+. . .
+. . . 
+>>>>>>> 63d06a9dbd378f39ac4d6d581bcbeff76e9afd4e
 X . O
