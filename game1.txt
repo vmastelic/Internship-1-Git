@@ -4,4 +4,4 @@ Vatro ima z pobjeda i n poraza!
 
 X . O
 X . .
-. . O
+O . O
