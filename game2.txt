@@ -2,7 +2,7 @@ Ivan ima 0 pobjeda i 1 poraza!
 Vatro ima 1 pobjeda 0 n poraza!
 
 
-X . O
+X O O
 . . .
 X O X
 
