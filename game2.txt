@@ -1,9 +1,9 @@
-Ivan ima 0 pobjeda i 1 poraza!
-Vatro ima 1 pobjeda 0 n poraza!
+Ivan ima 1 pobjeda i 1 poraza!
+Vatro ima 1 pobjeda 1 poraza!
 
 
 X O O
-. . .
+. X .
 X O X
 
 
