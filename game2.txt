@@ -1,5 +1,5 @@
 Ivan ima 1 pobjeda i 1 poraza!
-Vatro ima 1 pobjeda 1 poraza!
+Vatro ima 2 pobjeda 1 poraza!
 
 
 X O O
