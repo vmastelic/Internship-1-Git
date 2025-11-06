@@ -1,4 +1,4 @@
-Ivan ima 1 pobjeda 1  poraza!
+Ivan ima 1 pobjeda 2  poraza!
 Vatro ima 2 pobjeda 1  poraza!
 
 X . O
